@@ -44,8 +44,8 @@ Visite nossa página [fgglsistemas](https://fgglsistemas.com.br)
   
 <div> 
   <a href="https://www.youtube.com/channel/UCeRq4tYPnj10cSa8i8wOf3A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/fggluiz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:fggluiz@fgglsistemas.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-Email-%230077B5?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/fggluiz" target="_blank"><img src="https://img.shields.io/badge/-Instagram?style=for-the-badge&logo=instagram&logoColor=white&label=Instagram&labelColor=red&color=red" target="_blank"></a>
+  <a href = "mailto:fggluiz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:fggluiz@fgglsistemas.com.br"><img src="https://img.shields.io/badge/-Email-%230077B5?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a> 
   
 </div>
